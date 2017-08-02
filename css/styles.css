@@ -1,0 +1,34 @@
+p.flashy {
+  color: red;
+  font-style: italic;
+}
+
+ul {
+  list-style: none;
+}
+
+li.best {
+  background-color: #3498db;
+}
+
+li {
+  float: left;
+  width: 300px;
+  height: 400px;
+  padding: 10px;
+  text-align: center;
+  border-style: solid;
+  margin-right: 10px;
+}
+
+li a {
+  display: inline-block;
+}
+
+h2 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
